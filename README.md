@@ -183,13 +183,15 @@ LLMs
 # 🔥 Current Status
 
 ```text
-Epoch          : 001
-Learning Rate  : 0.001
-Optimizer      : Adam
-Loss           : ↓↓↓↓↓↓↓
-Accuracy       : ↑↑↑↑↑↑↑
+Initializing Repository...
 
-Status : Learning...
+Author          : Aishi De
+PRN             : 23070521008
+Semester        : VII
+Section         : A
+Batch           : A1
+
+Repository Status : Ready for Training 🧠
 ```
 
 ---
